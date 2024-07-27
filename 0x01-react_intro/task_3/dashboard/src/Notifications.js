@@ -23,4 +23,4 @@ function Notifications() {
   );
 }
 
-export default Notifications;Notifications.test.js
+export default Notifications;
