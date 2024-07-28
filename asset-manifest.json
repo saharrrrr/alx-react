@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alx-react/static/css/main.2ea72533.chunk.css",
+    "main.js": "/alx-react/static/js/main.f8c55459.chunk.js",
+    "main.js.map": "/alx-react/static/js/main.f8c55459.chunk.js.map",
+    "runtime~main.js": "/alx-react/static/js/runtime~main.7d533d14.js",
+    "runtime~main.js.map": "/alx-react/static/js/runtime~main.7d533d14.js.map",
+    "static/js/2.9c671b7c.chunk.js": "/alx-react/static/js/2.9c671b7c.chunk.js",
+    "static/js/2.9c671b7c.chunk.js.map": "/alx-react/static/js/2.9c671b7c.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "/alx-react/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "/alx-react/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "/alx-react/index.html",
+    "precache-manifest.f82420be69df0cf7b47829a60a86484f.js": "/alx-react/precache-manifest.f82420be69df0cf7b47829a60a86484f.js",
+    "service-worker.js": "/alx-react/service-worker.js",
+    "static/css/main.2ea72533.chunk.css.map": "/alx-react/static/css/main.2ea72533.chunk.css.map",
+    "static/media/holberton-logo.jpg": "/alx-react/static/media/holberton-logo.292deca1.jpg"
+  }
+}
